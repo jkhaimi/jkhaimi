@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 23-year-old bachelor's degree student in Information and Software Engineering at the University of Jyväskylä. <br>I am set to graduate with my bachelor's degree in spring 2025, and my goal is to complete my Master of Science in Technology by 2027. <br>Full-stack development is my primary interest in IT
+I am a 23-year-old master's degree student in Information and Software Engineering at the University of Jyväskylä. <br>Full-stack development & AI-development are my primary interest in IT.
 
 
 ## 🌐 Socials:
